@@ -3,7 +3,7 @@ public class BinarySearch {
 
         // This is for Sorted arr
 
-        int[] arr = {-22,-1,0,2,12,13,16,20,58,85,95,112};
+        int[] arr = {-22,-1,0,2,12,13,16,20,85,95,112};
         int[] num = {100,95,88,71,65,52,42,30,25,20,15,12,6,4,1};
         int target = 20;
         int ans = binarySearch(arr,target);
